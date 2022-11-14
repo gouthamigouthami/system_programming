@@ -25,6 +25,7 @@ int main()
 	cout<<add( a, b)<<endl;
        cout<<divi( a,b)<<endl;
 cout<<multi(a,b)<<endl;
-cout<<subst(a,b)<<endl;
+cout<<subst(a,b)<<endl;//comment
+cout<<"THE PROGRAMM IS ENDED"<<endl;
 return 0;
 }
